@@ -15,3 +15,4 @@
 
 from PyInstaller.utils.cliutils.makespec import run
 run()
+
